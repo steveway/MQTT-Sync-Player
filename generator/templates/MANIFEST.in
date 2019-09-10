@@ -1,5 +1,0 @@
-include setup.py
-include vlc.py
-include COPYING MANIFEST.in README.module
-include distribute_setup.py
-recursive-include examples *

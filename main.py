@@ -21,6 +21,8 @@ Based on the vlc videosync example from Saveliy Yusufov
 Author: Stefan Murawski | @steveway
 """
 import platform
+import sys
+import os
 import json
 import pathlib
 import queue
